@@ -1,0 +1,165 @@
+
+
+.body{
+    background-color: white;
+}
+
+.primary{
+    color: pink;
+    border-radius: 7px;
+    border-color: rgb(255, 192, 203);
+    box-shadow: pink;
+    margin-left: 800px;
+    background-color: white;
+}
+
+.class-A{
+    margin-top: 10px;
+}
+
+.secondary{
+    color: white;
+    margin-left: 500px;
+    border-radius: 7px;
+    background-color: pink;
+    border-color: rgb(255, 192, 203);
+}
+
+.class-B{
+    margin-top: 150px;
+}
+
+.summer{
+    width: 40%;
+    margin-left: 350px;
+}
+
+.salt{
+    margin-left: 50px;
+}
+
+.class-C{
+    margin-top: 50px;
+    width:60% ;
+    height: 40%;
+    margin-left: 250px;
+}
+
+.community{
+    margin-top: 40px;
+    margin-left: 250px;
+}
+
+.message{
+    margin-top: 40px;
+    margin-left: 450px;
+}
+
+
+.class-E{
+    width: 100%;
+}
+
+.growing{
+    margin-top: 110px;
+    margin-left:50px;
+}
+
+
+.gender{
+    width: 80%;
+    margin-left:50px;
+}
+
+.class-D{
+    width: 100%;
+}
+
+.desktop{
+    background-color: hsl(207, 100%, 98%);
+}
+
+.picture{
+    margin-top: 40px;
+}
+
+.write{
+    margin-top: 120px;
+}
+
+.class-F{
+    width: 100%;
+    color: rgba(160, 221, 213, 0.26);
+}
+
+.class-G{
+    width: 100%;
+    margin-top: 0px;
+}
+
+.computer{
+    background-color: hsl(207, 100%, 98%);
+}
+
+.faculty{
+    margin-top: 110px;
+    margin-left:50px;
+}
+
+.mentor{
+    width: 80%;
+    margin-left:50px;
+}
+
+.mention{
+    margin-top: 100px;
+}
+
+.heading{
+    margin-left: 300px;
+}
+
+.tertiary{
+    color: white;
+    margin-top: 20px;
+    margin-left: 500px;
+    border-radius: 7px;
+    background-color: pink;
+    border-color: rgb(255, 192, 203);
+}
+
+.Subscribe{
+    color: white;
+    background-color: pink;
+    border-color: rgb(255, 192, 203);
+    margin-top: 10px;
+    margin-left: 10px;
+    height:30px;
+}
+
+.whitebox{
+    background-color: white;
+    width:40% ;
+    height:30px;
+}
+
+.class-H{
+    width: 100%;
+}
+
+.keyboard{
+    background-color: hsl(192, 100%, 9%);
+}
+
+
+.common{
+    margin-top: 80px;
+}
+
+.class-eight{
+    margin-top: 30px;
+}
+
+.class-nine{
+    width: 70%;
+}
